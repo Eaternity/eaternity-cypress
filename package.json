@@ -1,0 +1,26 @@
+{
+  "name": "eaternity-cypress",
+  "version": "1.0.0",
+  "description": "dockerfile used to create the eaternity/cypress image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eaternity/eaternity-cypress.git"
+  },
+  "keywords": [
+    "docker",
+    "cypress"
+  ],
+  "author": "mcmunder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eaternity/eaternity-cypress/issues"
+  },
+  "homepage": "https://github.com/Eaternity/eaternity-cypress#readme",
+  "devDependencies": {
+    "cypress": "^3.1.0"
+  }
+}
